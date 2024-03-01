@@ -6,7 +6,7 @@ print(str,'apple', i, 0.123, sep='-')
 print(str,'apple', i, 0.123, sep='\n')
 # apple
 # 100
-# 0.123
+# 0.123 
 
 list2 = [1,2,3,4]
 
